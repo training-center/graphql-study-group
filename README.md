@@ -12,7 +12,7 @@ Conforme [outros grupos de estudos](https://github.com/training-center/study-gro
 
 ## Como participar
 
-Basta entrar no [Slack do Training Center](https://github.com/training-center/slack) e entrar no canal **#graphql**.
+Basta entrar no [Slack do Training Center](https://github.com/training-center/slack) e entrar no canal **#graphql-studies**.
 
 ## Reuniões
 
