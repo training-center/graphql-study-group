@@ -1,1 +1,2 @@
-## Listas de email sobre [xxx]
+## Listas de email sobre GraphQL
+- [GraphQL Mastery](https://graphqlmastery.com/)

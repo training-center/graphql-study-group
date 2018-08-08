@@ -1,4 +1,4 @@
-## Material de apoio ao grupo de estudos de [xxx]
+## Material de apoio ao grupo de estudos de GraphQL
 
 - [livros](dir/books.md)
 - [comunidades](dir/communities.md)
