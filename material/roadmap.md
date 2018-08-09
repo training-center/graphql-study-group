@@ -1,5 +1,4 @@
 ## Roadmap de estudos sobre GraphQL
-## Roadmap de estudos sobre GraphQL
 - GraphQL
     - [O que é ?](https://graphql.org/)
     - [GraphQL vs Rest](https://www.howtographql.com/basics/1-graphql-is-the-better-rest/)
