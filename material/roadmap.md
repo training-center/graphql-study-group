@@ -1,1 +1,29 @@
 ## Roadmap de estudos sobre GraphQL
+- GraphQL
+    - [O que é ?](https://graphql.org/)
+    - [GraphQL vs Rest](https://www.howtographql.com/basics/1-graphql-is-the-better-rest/)
+- Principais conceitos
+    - [**S**chema **D**efinition **L**anguage](https://www.prisma.io/blog/graphql-sdl-schema-definition-language-6755bcb9ce51/)
+    - [Object Types](https://graphql.org/learn/schema/#object-types-and-fields)
+    - Root Types
+        - [Queries](https://medium.com/trainingcenter/nodejs-apollo-server-e-graphql-parte-1-c3e44dc37b0b#be8c)
+            - [Fragments](https://graphql.org/learn/queries/#fragments) 
+            - [Variables](https://graphql.org/learn/queries/#variable-definitions)
+            - [Diretives](https://graphql.org/learn/queries/#directives) 
+        - [Mutations](https://medium.com/trainingcenter/nodejs-apollo-server-e-graphql-parte-1-c3e44dc37b0b#b7b0)
+    - [Scalar Types](https://graphql.org/learn/schema/#scalar-types)
+    - [Enumeration Types](https://graphql.org/learn/schema/#enumeration-types)
+    - [Input Types](https://graphql.org/learn/schema/#input-types)
+    - [Interfaces](https://graphql.org/learn/schema/#interfaces)
+    - [Union Types](https://graphql.org/learn/schema/#union-types)
+- Dando vida a API GraphQL
+    - [Resolvers](https://medium.com/trainingcenter/nodejs-apollo-server-e-graphql-parte-1-c3e44dc37b0b#1bcd) 
+- Schema Directives
+- Autenticação e Autorização
+- Modularizando o Schema
+- Obtendo dados em tempo real
+    - Subscriptions
+- Conceitos avançados
+    - Comunicação Server to Server
+       - GraphQL Binding
+       - Schema Stitching
