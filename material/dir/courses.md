@@ -6,3 +6,4 @@
 - [GraphQL Full Course - Novice to Expert](https://www.youtube.com/watch?v=ed8SzALpx1Q)
 - [GraphQL with React: The Complete Developers Guide](https://www.udemy.com/graphql-with-react-course/)
 - [How to GraphQL](https://www.howtographql.com/)
+- [React, GraphQL and Relay: A brief introduction](https://www.pluralsight.com/blog/software-development/react-graphql-and-relay)
